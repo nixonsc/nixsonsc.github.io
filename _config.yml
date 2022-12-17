@@ -82,9 +82,9 @@ analytics:
 author:
   name             : #"Mikkel Plagborg-Møller"
   avatar           : "profile.jpg"
-  bio              : "Assistant Professor, Department of Economics, Princeton University"
-  location         : "New York, NY"
-  employer         : 
+  bio              : #"Assistant Professor, Department of Economics, Princeton University"
+  location         : 
+  employer         : Princeton University
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uQPMeD8AAAAJ"
   email            : "mikkelpm [at] princeton [dot] edu"
