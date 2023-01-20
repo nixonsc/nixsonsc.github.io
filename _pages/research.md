@@ -20,8 +20,8 @@ Calibration, the practice of choosing the parameters of a structural model to ma
 
 ## Publications
 
-**Full-Information Estimation of Heterogeneous Agent Models Using Macro and Micro Data** (with Laura Liu). *Quantitative Economics*, forthcoming.\
-<small><a href="#/" onclick="visib('het_agents')">Abstract</a> &bull; [Working paper](../files/het_agents.pdf) &bull; [Supplement](../files/het_agents_supplement.pdf) &bull; [Slides](../files/het_agents_slides.pdf) &bull; [Replication files and Matlab code suite](https://github.com/mikkelpm/het_agents_bayes) &bull; [arXiv](https://arxiv.org/abs/2101.04771)</small>
+**Full-Information Estimation of Heterogeneous Agent Models Using Macro and Micro Data** (with Laura Liu). *Quantitative Economics* 14(1), 2023, 1-35.\
+<small><a href="#/" onclick="visib('het_agents')">Abstract</a> &bull; [Published version](https://doi.org/10.3982/QE1810) &bull; [Working paper](../files/het_agents.pdf) &bull; [Supplement](../files/het_agents_supplement.pdf) &bull; [Slides](../files/het_agents_slides.pdf) &bull; [Replication files and Matlab code suite](https://github.com/mikkelpm/het_agents_bayes) &bull; [arXiv](https://arxiv.org/abs/2101.04771)</small>
 <div id="het_agents" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
 We develop a generally applicable full-information inference method for heterogeneous agent models, combining aggregate time series data and repeated cross sections of micro data. To handle unobserved aggregate state variables that affect cross-sectional distributions, we compute a numerically unbiased estimate of the model-implied likelihood function. Employing the likelihood estimate in a Markov Chain Monte Carlo algorithm, we obtain fully efficient and valid Bayesian inference. Evaluation of the micro part of the likelihood lends itself naturally to parallel computing. Numerical illustrations in models with heterogeneous households or firms demonstrate that the proposed full-information method substantially sharpens inference relative to using only macro data, and for some parameters micro data is essential for identification.
 </small></div>
