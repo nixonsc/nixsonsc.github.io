@@ -8,6 +8,9 @@ title: Teaching
 **Advanced Econometrics: Time Series Models** (ECO 513), Princeton University\
 <small>[Fall 2022](../files/eco513_2022fall_syllabus.pdf), [Spring 2021](../files/eco513_2021spring_syllabus.pdf), [Spring 2019](../files/eco513_2019spring_syllabus.pdf), [Fall 2017](../files/eco513_2017fall_syllabus.pdf)</small>
 
+**Advanced Econometrics: Nonlinear Models** (ECO 519), Princeton University\
+<small>[Spring 2023](../files/eco519_2023spring_syllabus.pdf)</small>
+
 **Econometric Theory II** (ECO 518), Princeton University\
 <small>[Spring 2022](../files/eco518_2022spring_syllabus.pdf), [Spring 2021](../files/eco518_2021spring_syllabus.pdf), [Spring 2019](../files/eco518_2019spring_syllabus.pdf)</small>
 
