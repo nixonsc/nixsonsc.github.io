@@ -5,10 +5,10 @@ title: Research
 
 ## Working papers
 
-**Local Projections vs. VARs: Lessons From Thousands of DGPs** (with Dake Li and Christian K. Wolf). 2022.\
+**Local Projections vs. VARs: Lessons From Thousands of DGPs** (with Dake Li and Christian K. Wolf). 2023.\
 <small><a href="#/" onclick="visib('lp-var-simul')">Abstract</a> &bull; [Working paper](../files/lp_var_simul.pdf) &bull; [Supplement](../files/lp_var_simul_supplement.pdf) &bull; [Slides](../files/lp_var_simul_slides.pdf) &bull; [Matlab code](https://github.com/dake-li/lp_var_simul) &bull; [arXiv](https://arxiv.org/abs/2104.00655)</small>
 <div id="lp-var-simul" style="display: none; text-align: justify; line-height: 1.1; margin: -1em 0em 1em 0em" ><small>
-We conduct a simulation study of Local Projection (LP) and Vector Autoregression (VAR) estimators of structural impulse responses across thousands of data generating processes, designed to mimic the properties of the universe of U.S. macroeconomic data. Our analysis considers various identification schemes and several variants of LP and VAR estimators. A clear bias-variance trade-off emerges: LP estimators have lower bias than VAR estimators but substantially higher variance at intermediate and long horizons. Consequently, unless researchers are overwhelmingly concerned with bias, shrinkage via Bayesian VARs or penalized LPs is attractive.
+We conduct a simulation study of Local Projection (LP) and Vector Autoregression (VAR) estimators of structural impulse responses across thousands of data generating processes, designed to mimic the properties of the universe of U.S. macroeconomic data. Our analysis considers various identification schemes and several variants of LP and VAR estimators, employing bias correction, shrinkage, or model averaging. A clear bias-variance trade-off emerges: LP estimators have lower bias than VAR estimators, but they also have substantially higher variance at intermediate and long horizons. Bias-corrected LP is the preferred method if and only if the researcher overwhelmingly prioritizes bias. For researchers who also care about precision, VAR methods are the most attractive&mdash;Bayesian VARs at short and long horizons, and least-squares VARs at intermediate and long horizons.
 </small></div>
 
 **Standard Errors for Calibrated Parameters** (with Matthew D. Cocci). 2021.\
