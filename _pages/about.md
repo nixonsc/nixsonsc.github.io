@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 \
-I'm an Associate Professor in Princeton's Department of Economics.
+I'm Professor of Economics at Princeton University.
 
 - [CV](files/cv_mikkel_plagborg_moller.pdf)
 - [Research Statement](files/research_statement.pdf)
