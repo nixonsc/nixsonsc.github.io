@@ -14,8 +14,8 @@ I am an economist and political scientist and currently a Graduate Student in Po
 - [Research Philosophy](files/rp1.pdf)
 - [Teaching Statement](files/teach.pdf)
 
-**HIGHLIGHTS**
-**Selected Awards & Recognition**
+**HIGHLIGHTS**\
+**Selected Awards & Recognition**\
 **2024-2028**	Distinguished Graduate Student Assistantship, ($25,000/year for four years)\
 **2024-2025**	Teaching Assistantship, Department of Political Science, Texas Tech University \ 
 **2023**		Texas Public Education Grant, Texas Tech University, $2,000\
