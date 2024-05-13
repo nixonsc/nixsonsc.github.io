@@ -10,8 +10,9 @@ redirect_from:
 \
 I'm Professor of Economics at Princeton University.
 
-- [CV](files/cv_mikkel_plagborg_moller.pdf)
-- [Research Statement](files/research_statement.pdf)
+- [CV](files/CV1.pdf)
+- [Research Philosophy](files/rp1.pdf)
+- [Teaching Statement](files/teach.pdf)
 
 ### Contact information:
 mabude mabude
