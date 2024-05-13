@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Mikkel Plagborg-mabudeMøller"
+title                    : "Nixson Chekenya"
 title_separator          : "-"
-name                     : &name "Mikkel Plagborg-Møller"
+name                     : &name "Nixson Chekenya"
 description              : &description "Assistant Professor at Princeton University"
 url                      : https://www.mikkelpm.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,11 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : #"Mikkel Plagborg-Møller"
-  avatar           : "profile.jpg"
+  name             : #"Nixon Chekenya"
+  avatar           : "NIX.jpeg"
   bio              : #"Assistant Professor, Department of Economics, Princeton University"
   location         : 
-  employer         : Princeton University
+  employer         : Texas University
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uQPMeD8AAAAJ"
   email            : "mikkelpm [at] princeton [dot] edu"
