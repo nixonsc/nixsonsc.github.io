@@ -31,6 +31,15 @@ I am an economist and political scientist and currently a Graduate Student in Po
 **2016**		Best Internship Student, Confederation of Zimbabwe Industries\
 **2016**	Midlands State University Conference funding, $150\
 
+
+E**NTREPRENUERSHIP & INDUSTRY EXPERIENCE**\
+	•	Co-founder, Maguta Capital\
+	•	Co-founder, Kulina Microinsurance (Private) Limited\
+	•	Consultant, Xtenda Finance (Private) Limited\
+	•	Various roles, Steward Bank Limited\
+	•	Economist, Confederation of Zimbabwe Industries\
+
+
 ### Contact information:
 Department of Political Science | Texas Tech University | USA
 
