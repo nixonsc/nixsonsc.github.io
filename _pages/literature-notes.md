@@ -3,9 +3,9 @@ permalink: /literature-notes/
 title: Literature Notes
 ---
 
-- [Tradeoffs Between Impulse Response Inference Methods](../files/lec1.pdf)
-- [Tradeoffs Between Impulse Response Inference Methods](../files/lec2.pdf)
-- [Tradeoffs Between Impulse Response Inference Methods](../files/lec3.pdf)
-- [Tradeoffs Between Impulse Response Inference Methods](../files/lec4.pdf)
-- [Tradeoffs Between Impulse Response Inference Methods](../files/lec5.pdf)
-- [Tradeoffs Between Impulse Response Inference Methods](../files/lec6.pdf)
+- [Introduction to Value Chain Development](../files/lec1.pdf)
+- [alue Chain Project Design Overview](../files/lec2.pdf)
+- [Strategic position of Value Chain Management](../files/lec3.pdf)
+- [Beef Cattle Value Chain Lecture](../files/lec4.pdf)
+- [Pen Fattening Theory and Practice](../files/lec5.pdf)
+- [Agricultural Policies in Zimbabwe](../files/lec6.pdf)
