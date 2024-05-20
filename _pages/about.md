@@ -43,5 +43,5 @@ E**NTREPRENUERSHIP & INDUSTRY EXPERIENCE**\
 ### Contact information:
 Department of Political Science | Texas Tech University | USA
 
-mikkelpm [at] princeton [dot] edu
+
 
