@@ -9,7 +9,7 @@ title: Research
 2017	“Financial Stress, Illiquidity and the Role of Private Creditors: Whither Zimbabwe?”, with Zachary Tambudzai, in Albert Makochekanwa (Ed), Zimbabwe’s Liquidity Challenges and Possible Solutions, University of Zimbabwe Press.\
 
 ## Peer-Reviewed Publications
-2024'  '“Responsible Conduct of Research for Social Science Graduate Students: What Should they Know?”, with Sukant Misra, forthcoming in 
+2024 “Responsible Conduct of Research for Social Science Graduate Students: What Should they Know?”, with Sukant Misra, forthcoming in 
          Applied Economics Teaching Resources.\
 2023   “Climate-induced Crop Failure and Crop Abandonment: What Do We Know and Don’t Know.” African Journal of Agricultural and Resource 
          Economics, 18(2), 142-151.\
