@@ -17,7 +17,7 @@ I am an economist and political scientist and currently a Graduate Student in Po
 **HIGHLIGHTS**\
 **Selected Awards & Recognition**\
 **2024-2028**	Distinguished Graduate Student Assistantship, ($25,000/year for four years)\
-**2024-2025**	Teaching Assistantship, Department of Political Science, Texas Tech University \ 
+**2024-2025**	Teaching Assistantship, Department of Political Science, Texas Tech University\ 
 **2023**		Texas Public Education Grant, Texas Tech University, $2,000\
 **2023**		Young Leaders/Scholars Award, $200\
 **2023******		CFA Access Scholarship, $1,000\
@@ -29,7 +29,7 @@ I am an economist and political scientist and currently a Graduate Student in Po
 **2019**		CFA Access Scholarship, $1,000\
 **2017**		Midlands State University Conference Travel Award, $2,500\
 **2016**		Best Internship Student, Confederation of Zimbabwe Industries\
-**2016**	Midlands State University Conference funding, $150\
+**2016**	Midlands State University Conference funding, $150
 
 
 E**NTREPRENUERSHIP & INDUSTRY EXPERIENCE**\
