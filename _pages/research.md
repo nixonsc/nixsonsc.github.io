@@ -64,4 +64,4 @@ title: Research
 
 
 
-**Consistent factor estimation in dynamic factor models with structural instability** (with Brandon J. Bates, James H. Stock, and Mark W. Watson). *Journal of Econometrics* 177(2), 2013, 289-304.\
+
