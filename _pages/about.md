@@ -20,7 +20,7 @@ I am an economist and political scientist and currently a Graduate Student in Po
 **2024-2025**	Teaching Assistantship, Department of Political Science, Texas Tech University\ 
 **2023**		Texas Public Education Grant, Texas Tech University, $2,000\
 **2023**		Young Leaders/Scholars Award, $200\
-**2023******		CFA Access Scholarship, $1,000\
+**2023**		CFA Access Scholarship, $1,000\
 **2021-2023**	CASNR Graduate Fellowship, $60,000 (plus tuition fee waivers)\
 **2020**		WOG Grant EUR500\
 **2020**		Excellence in Reviewing Certificate, African Development Review\
