@@ -37,7 +37,7 @@ E**NTREPRENUERSHIP & INDUSTRY EXPERIENCE**\
 	•	Co-founder, Kulina Microinsurance (Private) Limited\
 	•	Consultant, Xtenda Finance (Private) Limited\
 	•	Various roles, Steward Bank Limited\
-	•	Economist, Confederation of Zimbabwe Industries\
+	•	Economist, Confederation of Zimbabwe Industries
 
 
 ### Contact information:
