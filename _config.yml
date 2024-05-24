@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Nixon Chekenya"
 title_separator          : "-"
-name                     : &name "Nixson Chekenya"
+name                     : &name "Nixon Chekenya"
 description              : &description "Assistant Professor at Princeton University"
 url                      : https://www.nixonsc.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
