@@ -4,9 +4,11 @@ title: Research
 ---
 
 ## Book Chapters
-**2017**
+#list
+**2017**\
 “Financial Stress, Illiquidity and the Role of Private Creditors: Whither Zimbabwe?”, with Zachary Tambudzai, in Albert Makochekanwa (Ed), Zimbabwe’s Liquidity Challenges and Possible Solutions, University of Zimbabwe Press.\
-**2024**
+
+**2024**\
 “Environmental Migration and Violent Conflicts in Sub-Saharan Africa”, in Jonathan &nbsp; &nbsp;Crush, Mulugeta Dinhabo and Daniel Tevera (Eds), Handbook of African Migration, Edward Elgar Publishing, forthcoming.\
 “Floods and Trade Flows: Evidence from Selected Sub-Saharan Africa Countries”, with Canicio Dzingirai and Emeriya Manzote, in Clainos Chidoko (Ed), Trade Dynamics in the 21st Century. The Southern African Perspectives, Emerald (Conditionally accepted November 28, 2023).\
 
