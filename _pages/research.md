@@ -10,7 +10,7 @@ title: Research
 
 **2024**\
 “Environmental Migration and Violent Conflicts in Sub-Saharan Africa”, in Jonathan &nbsp; &nbsp;Crush, Mulugeta Dinhabo and Daniel Tevera (Eds), Handbook of African Migration, Edward Elgar Publishing, forthcoming.\
-“Floods and Trade Flows: Evidence from Selected Sub-Saharan Africa Countries”, with Canicio Dzingirai and Emeriya Manzote, in Clainos Chidoko (Ed), Trade Dynamics in the 21st Century. The Southern African Perspectives, Emerald (Conditionally accepted November 28, 2023).\
+“Floods and Trade Flows: Evidence from Selected Sub-Saharan Africa Countries”, with Canicio Dzingirai and Emeriya Manzote, in Clainos Chidoko (Ed), Trade Dynamics in the 21st Century. The Southern African Perspectives, Emerald (Conditionally accepted November 28, 2023).
 
 
 ## Peer-Reviewed Publications
@@ -34,7 +34,7 @@ Nixon S. Chekenya (2016), “Rethinking the Transition to Formalization in Zimba
 “On the Empirics of Microfinance Institutions and Local Economic Development.” Development Southern Africa, 40(6), 1234-1257. Coverage: The Sunday Mail.
 
 **2024**\
-“Responsible Conduct of Research for Social Science Graduate Students: What Should they Know?”, with Sukant Misra,  forthcoming in Applied Economics Teaching Resources.\
+“Responsible Conduct of Research for Social Science Graduate Students: What Should they Know?”, with Sukant Misra,  forthcoming in Applied Economics Teaching Resources.
 
 
 
@@ -76,7 +76,7 @@ Nixon S. Chekenya (2016), “Rethinking the Transition to Formalization in Zimba
 “Group-lending, Peer-monitoring in Microfinance Contracts in Rural Zimbabwe: What Should We Know?” The Sunday Mail, May 5, 2024\
 “The ABCs of Enhancing Financial Inclusion in Rural Markets.” The Sunday Mail, April 28, 2024.\
 “Why Banking the Rural Poor in Zimbabwe is Hard But not Impossible?” The Sunday Mail, April 14, 2024.\
-“Can Microfinance Change Lives of Low-income Rural Households in Zimbabwe?” The Sunday Mail, April 7, 2024.\
+“Can Microfinance Change Lives of Low-income Rural Households in Zimbabwe?” The Sunday Mail, April 7, 2024.
 
 
 
