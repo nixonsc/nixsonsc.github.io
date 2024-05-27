@@ -6,7 +6,7 @@ title: Research
 ## Book Chapters
 
 **2017**\
-“Financial Stress, Illiquidity and the Role of Private Creditors: Whither Zimbabwe?”, with Zachary Tambudzai, in Albert Makochekanwa (Ed), Zimbabwe’s Liquidity Challenges and Possible Solutions, University of Zimbabwe Press.\
+“Financial Stress, Illiquidity and the Role of Private Creditors: Whither Zimbabwe?”, with Zachary Tambudzai, in Albert Makochekanwa (Ed), Zimbabwe’s Liquidity Challenges and Possible Solutions, University of Zimbabwe Press.
 
 **2024**\
 “Environmental Migration and Violent Conflicts in Sub-Saharan Africa”, in Jonathan &nbsp; &nbsp;Crush, Mulugeta Dinhabo and Daniel Tevera (Eds), Handbook of African Migration, Edward Elgar Publishing, forthcoming.\
