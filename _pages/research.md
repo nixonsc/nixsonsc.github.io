@@ -26,7 +26,6 @@ Nixon S. Chekenya (2016), “Rethinking the Transition to Formalization in Zimba
 **2022**\
 “Design of a Conceptual Framework for Evaluating the Performance of Broad-Based Black Economic Empowerment (B-BBEE) Laws on Mutual  Funds’ Performance in South Africa,” with Heinz Eckart Klingelhöfer. Managerial Finance, 48(12), 1795-1810.\
 “Intolerance, Xenophobia and Cross-border Supermarket Groups’ Operations in South Africa,” with Laurine Chikoko. Agrekon, 61(3), 360-378.\
-
 “Longevity Swaps for Longevity Risk Management in Life Insurance Products,” with Canicio Dzingirai. Journal of Risk Finance, 21(3), 253-269.\
 “Skin Color and Investment Performance in South Africa’s Mutual Funds Industry,” with Shingirai Sikomwe. Review of Behavioral Finance, 14(1), 45-67.\
 
@@ -66,16 +65,20 @@ Nixon S. Chekenya (2016), “Rethinking the Transition to Formalization in Zimba
 “Climate-Induced Shocks and Productive Capacities of Vulnerable Groups: A Micro-Perspective from Maize Farmers in Zimbabwe” with Canicio Dzingirai.
 
 ## Non-Technical Policy Briefs & Media Appearance
-**2024**&nbsp;&nbsp;&nbsp;&nbsp;“Group-lending, Peer-monitoring in Microfinance Contracts in Rural Zimbabwe: What Should We Know?” The Sunday Mail, May 5, 2024\
-“The ABCs of Enhancing Financial Inclusion in Rural Markets.” The Sunday Mail, April 28, 2024.\
-	“Why Banking the Rural Poor in Zimbabwe is Hard But not Impossible?” The Sunday Mail, April 14, 2024.\
-“Can Microfinance Change Lives of Low-income Rural Households in Zimbabwe?” The Sunday Mail, April 7, 2024.\
-**2021**&nbsp;&nbsp;&nbsp;&nbsp;	“The Effect of Broad-Based Black Economic Empowerment (B-BBEE) Laws on Mutual Funds’ Performance in South Africa,” with Heinz Eckart Klingelhöfer. AfricaGrowth Agenda, 18(4), 14-17.\
+
+**2021**\
+“The Effect of Broad-Based Black Economic Empowerment (B-BBEE) Laws on Mutual Funds’ Performance in South Africa,” with Heinz Eckart Klingelhöfer. AfricaGrowth Agenda, 18(4), 14-17.\
 “The Missing Link in Zimbabwe’s Revenue System: The Informal Sector,” AfricaGrowth Agenda, 16(2), 14-16.
-
 “Time for Hemp Value Chain in Zimbabwe?” Business Weekly, December 22, 2018
-
 “Building a Firm Foundation for Real Economic Transformation,” Business Weekly, December 1, 2017.
+
+**2024**\
+“Group-lending, Peer-monitoring in Microfinance Contracts in Rural Zimbabwe: What Should We Know?” The Sunday Mail, May 5, 2024\
+“The ABCs of Enhancing Financial Inclusion in Rural Markets.” The Sunday Mail, April 28, 2024.\
+“Why Banking the Rural Poor in Zimbabwe is Hard But not Impossible?” The Sunday Mail, April 14, 2024.\
+“Can Microfinance Change Lives of Low-income Rural Households in Zimbabwe?” The Sunday Mail, April 7, 2024.\
+
+
 
 
 
