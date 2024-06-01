@@ -21,20 +21,20 @@ title: Research
 “Responsible Conduct of Research for Social Science Graduate Students: What Should they Know?”, with Sukant Misra,  forthcoming in *Applied Economics Teaching Resources*.
 
 **2023**\
-“Climate-induced Crop Failure and Crop Abandonment: What Do We Know and Don’t Know.” *African Journal of Agricultural &nbsp; and Resource Economics*, 18(2), 142-151.\
+“Climate-induced Crop Failure and Crop Abandonment: What Do We Know and Don’t Know.” *African Journal of Agricultural &nbsp; and Resource Economics*, 18(2), 142-151.
 
 “On the Empirics of Microfinance Institutions and Local Economic Development.” *Development Southern Africa, 40(6), 1234-1257. Coverage: The Sunday Mail*.
 
 **2022**\
 “Design of a Conceptual Framework for Evaluating the Performance of Broad-Based Black Economic Empowerment (B-BBEE) Laws on Mutual  Funds’ Performance in South Africa,” with Heinz Eckart Klingelhöfer. *Managerial Finance*, 48(12), 1795-1810.\
 
-“Intolerance, Xenophobia and Cross-border Supermarket Groups’ Operations in South Africa,” with Laurine Chikoko. *Agrekon*, 61(3), 360-378.\
+“Intolerance, Xenophobia and Cross-border Supermarket Groups’ Operations in South Africa,” with Laurine Chikoko. *Agrekon*, 61(3), 360-378.
 
 
 **2020**\
 “Distributional Effects of Aid Types on Local Economic Development in Malawi,” with Canicio Dzingirai.  *Journal of Economic  Studies*, 48(8), 1299-1322.
 
-“Longevity Swaps for Longevity Risk Management in Life Insurance Products,” with Canicio Dzingirai. *Journal of Risk Finance*, 21(3), 253-269.\
+“Longevity Swaps for Longevity Risk Management in Life Insurance Products,” with Canicio Dzingirai. *Journal of Risk Finance*, 21(3), 253-269.
 
 “Skin Color and Investment Performance in South Africa’s Mutual Funds Industry,” with Shingirai Sikomwe. *Review of Behavioral Finance*, 14(1), 45-67.
 
