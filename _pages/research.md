@@ -24,7 +24,7 @@ title: Research
 **2023**\
 “Climate-induced Crop Failure and Crop Abandonment: What Do We Know and Don’t Know.” *African Journal of Agricultural &nbsp; and Resource Economics*, 18(2), 142-151.
 
-“On the Empirics of Microfinance Institutions and Local Economic Development.” *Development Southern Africa, 40(6), 1234-1257. Coverage: The Sunday Mail*.
+“On the Empirics of Microfinance Institutions and Local Economic Development.” *Development Southern Africa, 40(6), 1234-1257.*Coverage:* The Sunday Mail*.
 
 **2022**\
 “Design of a Conceptual Framework for Evaluating the Performance of Broad-Based Black Economic Empowerment (B-BBEE) Laws on Mutual  Funds’ Performance in South Africa,” with Heinz Eckart Klingelhöfer. *Managerial Finance*, 48(12), 1795-1810.
