@@ -43,7 +43,7 @@ title: Research
 “Maximum likelihood estimation of stock volatility using jump-diffusion models,” *Cogent Economics & Finance*,7(1), 1-17.
 
 **2016**\
-Nixon S. Chekenya (2016), “Rethinking the Transition to Formalization in Zimbabwe’s Informal Sector,” &Undergraduate Economic Review*, 13(1), 1-45.
+Nixon S. Chekenya (2016), “Rethinking the Transition to Formalization in Zimbabwe’s Informal Sector,” *Undergraduate Economic Review*, 13(1), 1-45.
 
 
 
