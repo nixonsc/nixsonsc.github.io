@@ -17,7 +17,7 @@ title: Teaching
 	•	Principles of Economics, University of Zimbabwe (Fall 2018)\
 	•	Macroeconomics II, Midlands State University (Fall 2018)\
 	•	Development Economics, Midlands State University (Fall 2018)\
-	•	Microeconomics I, Midlands State University (Fall 2016)\
+	•	Microeconomics I, Midlands State University (Fall 2016)
 
 
 
