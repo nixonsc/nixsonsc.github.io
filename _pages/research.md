@@ -6,7 +6,7 @@ title: Research
 ## Book Chapters
 
 **2024**\
-“Environmental Migration and Violent Conflicts in Sub-Saharan Africa”, in Jonathan &nbsp; &nbsp;Crush, Mulugeta Dinhabo and Daniel Tevera (Eds), Handbook of African Migration, Edward Elgar Publishing, forthcoming.\
+“Environmental Migration and Violent Conflicts in Sub-Saharan Africa”, in Jonathan &nbsp; &nbsp;Crush, Mulugeta Dinhabo and Daniel Tevera (Eds), Handbook of African Migration, Edward Elgar Publishing, forthcoming.
 
 “Floods and Trade Flows: Evidence from Selected Sub-Saharan Africa Countries”, with Canicio Dzingirai and Emeriya Manzote, in Clainos Chidoko (Ed), Trade Dynamics in the 21st Century. The Southern African Perspectives, Emerald (Conditionally accepted November 28, 2023).
 
